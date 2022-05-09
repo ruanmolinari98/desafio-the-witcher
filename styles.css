@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(https://i.ibb.co/KbSXtj4/the-witcher-hell.png);
+    background-repeat: no-repeat;
+}
+header {
+    color: white;
+    width: 1919px;
+    height: 122px;
+    background-color: black;
+    text-transform: uppercase;
+  }
+  
+  .logo {
+    width: 329px;
+    height: 96px;
+    margin-top: 13px;
+    margin-left: 179px;
+    display: inline-block;
+  }
+  
+  .logo p {
+    width: 230px;
+    height: 24px;
+    font-size: 20px;
+    margin-left: 99px;
+    margin-top: -61px;
+    color: white;
+  }
+  
+  header nav {
+    text-align: right;
+  }
+  
+  header ul {
+    text-align: right;
+    margin-top: -61px;
+    margin-right: 140px;
+  }
+  
+  nav li {
+    margin-left: 50px;
+    font-size: 20px;
+    display: inline-block;
+  }
+  
+  li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .personagem {
+    margin-top: -63px;
+    width: 1919px;
+  }
+  
+  .personagem img {
+    margin: 0 auto;
+    display: block;
+  }
+  
+  .personagem div {
+    margin-top: -563px;
+    width: 1919px;
+  }
+  
+  .titulo img {
+  padding-bottom: 28px;
+  }
+  
+  footer {
+    margin-top:172px;
+    color: white;
+  }
+  
+  footer p{
+    margin-left: 33px;
+  }
